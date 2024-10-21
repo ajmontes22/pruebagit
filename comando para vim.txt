@@ -1,0 +1,4 @@
+dw - para eliminar un texto 
+u - para recuperar el texto borrado
+ctrl + r - para restaurar el texto recuperado 
+d + d$ - para eliminar toda una linea
